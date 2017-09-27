@@ -1,6 +1,6 @@
 {
   "name": "git-clone-idempotent",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Like git clone, but pulls if the folder exists",
   "dependencies": {},
   "devDependencies": {},
