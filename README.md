@@ -2,8 +2,13 @@
 
 Like git clone, but pulls if the folder exists
 
-```
+```sh
 npm install -g git-clone-idempotent
+```
+
+```sh
+curl -o git-clone-idempotent https://raw.githubusercontent.com/mafintosh/git-clone-idempotent/master/index.sh
+chmod u+x git-clone-idempotent
 ```
 
 Useful for automated git clones/pulls
